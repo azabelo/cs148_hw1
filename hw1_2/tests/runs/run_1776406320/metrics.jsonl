@@ -1,0 +1,6 @@
+{"step": 0, "wallclock_time": 0.0, "event": "run_start"}
+{"step": 1, "wallclock_time": 0.42589378356933594, "train_loss": 9.215673446655273, "event": "train"}
+{"step": 1, "wallclock_time": 0.4941098690032959, "train_eval_loss": 9.211312294006348, "val_loss": 9.218480110168457, "event": "eval"}
+{"step": 2, "wallclock_time": 0.6766040325164795, "train_loss": 9.210943222045898, "event": "train"}
+{"step": 2, "wallclock_time": 0.7205677032470703, "train_eval_loss": 9.195950508117676, "val_loss": 9.189984321594238, "event": "eval"}
+{"step": 2, "wallclock_time": 0.8663790225982666, "event": "run_end"}
